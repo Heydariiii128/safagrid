@@ -5,7 +5,21 @@
 </template>
 
 <script>
-export default {};
+export default {
+  props: ["dataTable"],
+
+  data() {
+    return {
+      currentPage: 1,
+      searchBy: "",
+      rows: [],
+      sort: {
+        sortBy: "",
+        desc: true
+      }
+    };
+  }
+};
 </script>
 
 <style scoped lang="scss">
