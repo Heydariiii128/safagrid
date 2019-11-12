@@ -7,5 +7,5 @@
 ##Usage
 
 ```bash
-npm install --save vue-sfgrid1
+npm install vue-sfgrid1
 ```
