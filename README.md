@@ -1,11 +1,11 @@
-# vue-sfgrid
+# vue-sfgrid1
 
 > A grid component build with Vuejs.
 
-> You can try it [Online](https://galenyuan.github.io/vue-datatable/), it's Vue version [DataTables](https://github.com/DataTables/DataTables)
+> You can try it [Online](https://github.com/Heydariiii128/safagrid)
 
 ##Usage
 
 ```bash
-npm install --save vue-sfgrid
+npm install --save vue-sfgrid1
 ```
