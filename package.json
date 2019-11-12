@@ -1,0 +1,41 @@
+{
+  "name": "vue-sfgrid",
+  "version": "1.0.1",
+  "author": {
+    "name": "Heydari",
+    "email": "heydariiii128@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "babel-runtime": "^6.0.0",
+    "vue": "^1.0.21"
+  },
+  "deprecated": false,
+  "description": "Datatable for Vuejs",
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-plugin-transform-runtime": "^6.0.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-preset-stage-2": "^6.0.0",
+    "babel-register": "^6.0.0",
+    "css-loader": "^0.23.0",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^8.3.0",
+    "vue-style-loader": "^1.0.0",
+    "webpack": "^1.12.2"
+  },
+  "keywords": [
+    "Vue",
+    "Grid",
+    "SFGrid"
+  ],
+  "license": "MIT",
+  "main": "./src/SFGrid.vue",
+  "private": false,
+  "scripts": {
+    "build": "webpack"
+  }
+}
